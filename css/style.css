@@ -108,7 +108,7 @@
 
 .promo {
   box-shadow: 0px 7px 12px rgba(158, 158, 163, 0.1);
-  background: #fff1b8 url(/img/image.png) no-repeat top 0px right -200px/1700px;
+  background: #fff1b8 url(/Shop/img/image.png) no-repeat top 0px right -200px/1700px;
   border-radius: 10px;
   padding-top: 68px;
   padding-bottom: 68px;
@@ -290,7 +290,7 @@
 
 @media (max-width: 990px) {
   .promo {
-    background: #fff1b8 url(/img/image.png) no-repeat top 0px right -496px/1847px;
+    background: #fff1b8 url(/Shop/img/image.png) no-repeat top 0px right -496px/1847px;
     padding: 31px;
 }
 .karts {
